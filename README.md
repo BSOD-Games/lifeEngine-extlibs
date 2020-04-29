@@ -16,3 +16,4 @@
 * RapidJson - 1.1.0
 * SDL2 - 2.0.10
 * Tiny C Compiler - 0.9.27
+* Qt Node Editor - 2.1.3 (Qt 5.14.2)
