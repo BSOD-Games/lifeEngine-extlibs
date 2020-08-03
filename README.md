@@ -16,7 +16,8 @@
 * GLEW - 2.0.1
 * RapidJson - 1.1.0
 * SDL2 - 2.0.10
-* Tiny C Compiler - 0.9.27
 * OpenAL - 1.1 ALSOFT 1.20.1
 * Ogg-Vorbis - 1.3.5
 * SteamAudio - 2.0-beta.18 
+* LuaJIT - 2.0.5
+* LuaBridge - 2.0.3
