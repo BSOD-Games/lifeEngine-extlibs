@@ -10,3 +10,5 @@
 # Версии
 * SDL2 - 2.0.12
 * GLEW - 2.1.0
+* STB_Image - 2.26
+* STB_ImageWrite - v1.15
