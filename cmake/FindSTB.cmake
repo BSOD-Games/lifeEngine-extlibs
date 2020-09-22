@@ -21,6 +21,6 @@ find_path( 		STB_INCLUDE
 				PATH_SUFFIXES include
 				PATHS ${STB_SEARCH_PATHS} )
 		
-if ( STB_PATH )
+if ( STB_INCLUDE )
 	set( STB_FOUND true )
 endif()
