@@ -13,3 +13,4 @@
 * STB_Image - 2.26
 * STB_ImageWrite - v1.15
 * RapidJSON - 1.1.0
+* TMXLite - 1.2.1
